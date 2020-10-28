@@ -24,7 +24,7 @@ Reprooduce Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal 
 
 ## Model Performance
 ![Example Demo1](https://github.com/MagicSHX/CNN_LSTM_HAR_Pytorch/blob/main/img/SKODA_Class_11.png)
-![Example Demo2]("https://github.com/MagicSHX/CNN_LSTM_HAR_Pytorch/blob/main/img/OPPORTUNITY%20-%2018%20classes_Class_18.png")
+![Example Demo2](https://github.com/MagicSHX/CNN_LSTM_HAR_Pytorch/blob/main/img/OPPORTUNITY%20-%2018%20classes_Class_18.png)
 
 ## Technologies
 * Python 3 - pytorch
