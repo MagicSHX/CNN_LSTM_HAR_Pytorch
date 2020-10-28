@@ -1,15 +1,17 @@
 # CNN_LSTM_HAR_Pytorch
-> Reprooduce Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition in pytorch
-> Best performance: 
+> Reproduce Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition in pytorch, Best performance: 
 > * 93.9% F1 score on SKODA Dataset via 1837 epochs
-> * 93.2% F1 score on SKODA Dataset via 1562 epochs
 > * 92.1% F1 score on SKODA Dataset via 1227 epochs
 > * 90.2% F1 score on SKODA Dataset via 875 epochs
 > * 85.0% F1 score on SKODA Dataset via 300 epochs
+> * 90.6% F1 score on OPPORTUNITY Dataset via 798 epochs
+> * 88.9% F1 score on OPPORTUNITY Dataset via 501 epochs
+> * 86.8% F1 score on OPPORTUNITY Dataset via 360 epochs
+> * 83.2% F1 score on OPPORTUNITY Dataset via 300 epochs
 
 ## Table of contents
 * [General info](#general-info)
-* [Demo](#demo)
+* [Model Performance](#Model-Performance)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -20,8 +22,9 @@
 ## General info
 Reprooduce Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition in pytorch
 
-## Demo
+## Model Performance
 ![Example Demo](img/SKODA_Class_11.png)
+![Example Demo](img/OPPORTUNITY - 18 classes_Class_18.png)
 
 ## Technologies
 * Python 3 - pytorch
