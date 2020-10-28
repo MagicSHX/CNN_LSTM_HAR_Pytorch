@@ -23,8 +23,8 @@
 Reprooduce Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition in pytorch
 
 ## Model Performance
-![Example Demo](img/SKODA_Class_11.png)
-![Example Demo](img/OPPORTUNITY - 18 classes_Class_18.png)
+![Example Demo1](img/SKODA_Class_11.png)
+![Example Demo2](img/OPPORTUNITY - 18 classes_Class_18.png)
 
 ## Technologies
 * Python 3 - pytorch
